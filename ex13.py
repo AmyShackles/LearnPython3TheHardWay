@@ -8,3 +8,6 @@ print("The script is called:", script)
 print("Your first variable is:", first)
 print("Your second variable is:", second)
 print("Your third variable is:", third)
+
+favorite_color = input("What is your favorite color? ")
+print(f"So your favorite color is {favorite_color}.  That's nice.")
